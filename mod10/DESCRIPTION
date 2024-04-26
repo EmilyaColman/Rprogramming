@@ -1,8 +1,0 @@
-Package: YouTubeIdentifier
-Title: Extracts YouTube video ID from URLs
-Version: 0.1
-Authors@R: "Emily Colman <colmane@usf.edu> cre"
-Description: Extract YouTube video ID from URLs in dataframe. It accomplishes this by parsing the HTTP GET parameter. It then returns a new dataframe containing the videos IDs.
-Depends: R (>= 3.1.2)
-License: CC0
-LazyData: true
